@@ -6,7 +6,9 @@
         "Hi friends! ",
         "Whaaaaat!? ",
         "Surprise! ",
-        "You won't believe this! "
+        "You won't believe this! ",
+        "Yo! ",
+        "What a nice day! "
     ],
 
     "endings":[
@@ -18,6 +20,7 @@
         "Make a wish on this special day!",
         "Make a greeting card for this holiday!",
         "Post about this holiday on social media!",
-        "Make up a new tradition for this holiday!"
+        "Make up a new tradition for this holiday!",
+        "Look it up if you don't believe me!"
     ]
 }
