@@ -1,0 +1,159 @@
+{
+    "holidays" : [
+        [
+            {"day": "", "name": ""},
+            {"day": "", "name": "--this is a dummy array element--"}
+        ],
+
+        [
+            {"day": "------January------", "name": "--this is a comment--"},
+            {"day": "2", "name": "World Introvert Day"},
+            {"day": "11", "name": "International Thank-You Day"},
+            {"day": "12", "name": "Kiss a Ginger Day"},
+            {"day": "16", "name": "Appreciate a Dragon Day"},
+            {"day": "20", "name": "World Penguin Day"},
+            {"day": "25", "name": "Opposite Day! Everything is upside down for 24 hours"},
+            {"day": "28", "name": "Data Privacy Day"},
+            {"day": "30", "name": "Croissant Day"}
+        ],
+
+        [
+            {"day": "------February------", "name": "--this is a comment--"},
+            {"day": "4", "name": "World Cancer Day"},
+            {"day": "7", "name": "e Day! Celebrate the wonderful math constant"},
+            {"day": "11", "name": "International Day of Women and Girls in Science"},
+            {"day": "15", "name": "Lupercalia"},
+            {"day": "20", "name": "World Day of Social Justice"},
+            {"day": "23", "name": "Mount Fuji Day"},
+            {"day": "27", "name": "International Polar Bear Day"}
+        ],
+
+        [
+            {"day": "------March------", "name": "--this is a comment--"},
+            {"day": "1", "name": "Zero Discrimination Day"},
+            {"day": "2", "name": "a reminder that it is Problem Gambling Awareness Month"},
+            {"day": "8", "name": "International Women's Day"},
+            {"day": "14", "name": "Pi Day"},
+            {"day": "16", "name": "Freedom of Information Day"},
+            {"day": "20", "name": "French Langauge Day"},
+            {"day": "22", "name": "World Water Day"},
+            {"day": "28", "name": "Weed Appreciation Day"},
+            {"day": "30", "name": "International Day of Zero Waste"},
+            {"day": "31", "name": "International Transgender Day of Visibility"}
+        ],
+
+        [
+            {"day": "-------April-------", "name": "--this is a comment--"},
+            {"day": "2", "name": "Autism Awareness Day"},
+            {"day": "6", "name": "International Asexuality Day"},
+            {"day": "12", "name": "International Day of Human Space Flight"},
+            {"day": "18", "name": "Zimbabwe Independence Day"},
+            {"day": "21", "name": "Creativity and Innovation Day"},
+            {"day": "25", "name": "World Malaria Day"},
+            {"day": "30", "name": "Jazz Day"}
+        ],
+
+        [
+            {"day": "------May-------", "name": "--this is a comment--"},
+            {"day": "1", "name": "the start of Masturbation Month"},
+            {"day": "3", "name": "World Press Freedom Day"},
+            {"day": "9", "name": "Europe"},
+            {"day": "13", "name": "World Cocktail Day"},
+            {"day": "17", "name": "International Day Against Homophobia, Transphobia, and Biphobia"},
+            {"day": "21", "name": "International Tea Day"},
+            {"day": "24", "name": "Pansexual and Panromantic Visibility Day"},
+            {"day": "30", "name": "International Day of Potato"}
+        ],
+
+        [
+            {"day": "-----June-----", "name": "--this is a comment--"},
+            {"day": "1", "name": "World Milk Day"},
+            {"day": "2", "name": "a reminder that Pride Month already started"},
+            {"day": "8", "name": "Best Friend Day"},
+            {"day": "12", "name": "World Day Against Child Labour"},
+            {"day": "18", "name": "International Picnic Day"},
+            {"day": "21", "name": "World Giraffe Day"},
+            {"day": "24", "name": "Midsummer"},
+            {"day": "30", "name": "International Asteroid Day"}
+        ],
+
+        [
+            {"day": "-----July-----", "name": "--this is a comment--"},
+            {"day": "1", "name": "International Joke Day"},
+            {"day": "5", "name": "Bikini Day"},
+            {"day": "7", "name": "World Chocolate Day"},
+            {"day": "14", "name": "International Non-Binary Day"},
+            {"day": "20", "name": "World Chess Day"},
+            {"day": "24", "name": "World BDSM Day"},
+            {"day": "30", "name": "International Friendship Day"},
+            {"day": "31", "name": "Orgasm Day"}
+        ],
+
+        [
+            {"day": "-----August-----", "name": "--this is a comment--"},
+            {"day": "1", "name": "the start of World Breastfeeding week"},
+            {"day": "5", "name": "Underwear Day"},
+            {"day": "8", "name": "International Cat Day :3"},
+            {"day": "13", "name": "International Left Handers Day"},
+            {"day": "17", "name": "Thrift Shop Day"},
+            {"day": "20", "name": "World Mosquito Day"},
+            {"day": "26", "name": "Women's Equality Day"},
+            {"day": "29", "name": "Michael Jackson's Birthday"},
+            {"day": "31", "name": "Eat Outside Day"}
+        ],
+
+        [
+            {"day": "-----September-----", "name": "--this is a comment--"},
+            {"day": "5", "name": "International Day of Charity"},
+            {"day": "9", "name": "Sudoku Day"},
+            {"day": "10", "name": "World Suicide Prevention Day"},
+            {"day": "12", "name": "Videogames Day"},
+            {"day": "15", "name": "International Day of Democracy"},
+            {"day": "21", "name": "International Day of Peace"},
+            {"day": "23", "name": "Bisexuality Day"},
+            {"day": "27", "name": "Chocolate Milk Day"},
+            {"day": "29", "name": "World Heart Day"}
+        ],
+
+        [
+            {"day": "-----October-----", "name": "--this is a comment--"},
+            {"day": "2", "name": "International Day of Non-Violence"},
+            {"day": "4", "name": "Vodka Day"},
+            {"day": "8", "name": "International Lesbian Day"},
+            {"day": "11", "name": "Coming Out Day"},
+            {"day": "13", "name": "Breast Cancer Awareness Day"},
+            {"day": "16", "name": "Dictionary Day"},
+            {"day": "18", "name": "World vasectonomy Day"},
+            {"day": "24", "name": "United Nations Day"},
+            {"day": "25", "name": "International Artist Day"},
+            {"day": "29", "name": "World Stroke Day"},
+            {"day": "31", "name": "Halloween"}
+        ],
+
+        [
+            {"day": "-----November-----", "name": "--this is a comment--"},
+            {"day": "4", "name": "Random Acts of Kindness Day"},
+            {"day": "8", "name": "X-ray Day"},
+            {"day": "9", "name": "Go to an Art Museum Day"},
+            {"day": "14", "name": "World Diabetes Day"},
+            {"day": "19", "name": "World Toilet Day"},
+            {"day": "21", "name": "World Television Day"},
+            {"day": "24", "name": "Celebrate Your Unique Talent Day"},
+            {"day": "28", "name": "Red Planet Day"},
+            {"day": "30", "name": "Computer Security Day"}
+        ],
+
+        [
+            {"day": "-----December-----", "name": "--this is a comment--"},
+            {"day": "1", "name": "World AIDS Day"},
+            {"day": "5", "name": "World Soil Day"},
+            {"day": "10", "name": "Human Rights Day"},
+            {"day": "14", "name": "World Monkey Day"},
+            {"day": "18", "name": "International Migrants Day"},
+            {"day": "20", "name": "International Human Solidarity Day"},
+            {"day": "25", "name": "Christmas for those who celebrate it today"},
+            {"day": "30", "name": "Bacon Day"},
+            {"day": "31", "name": "New Year's Eve! see you next year"}
+        ]
+    ]
+}
