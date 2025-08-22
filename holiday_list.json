@@ -37,6 +37,7 @@
             {"day": "16", "name": "Freedom of Information Day"},
             {"day": "20", "name": "French Langauge Day"},
             {"day": "22", "name": "World Water Day"},
+            {"day": "25", "name": "Waffle Day"},
             {"day": "28", "name": "Weed Appreciation Day"},
             {"day": "30", "name": "International Day of Zero Waste"},
             {"day": "31", "name": "International Transgender Day of Visibility"}
@@ -91,13 +92,14 @@
 
         [
             {"day": "-----August-----", "name": "--this is a comment--"},
-            {"day": "1", "name": "the start of World Breastfeeding week"},
+            {"day": "1", "name": "Yaoi Day"},
             {"day": "5", "name": "Underwear Day"},
             {"day": "8", "name": "International Cat Day :3"},
             {"day": "13", "name": "International Left Handers Day"},
             {"day": "17", "name": "Thrift Shop Day"},
             {"day": "20", "name": "World Mosquito Day"},
             {"day": "22", "name": "my birthday !!!!!"},
+            {"day": "24", "name": "Can Opener Day"},
             {"day": "26", "name": "Women's Equality Day"},
             {"day": "29", "name": "Michael Jackson's Birthday"},
             {"day": "31", "name": "Eat Outside Day"}
@@ -105,6 +107,7 @@
 
         [
             {"day": "-----September-----", "name": "--this is a comment--"},
+            {"day": "2", "name": "Coconut Day"},
             {"day": "5", "name": "International Day of Charity"},
             {"day": "9", "name": "Sudoku Day"},
             {"day": "10", "name": "World Suicide Prevention Day"},
