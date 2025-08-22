@@ -36,18 +36,25 @@ if today_holiday:
     message = random.choice(flavor_texts['beginnings']) + 'Today, ' + str(day) + '/' + str(month) + ', is ' + today_holiday['name'] + '. ' + random.choice(flavor_texts['endings'])
 
 
-if __name__ == '__main__':
+async def send_holiday_message():
+    """Send holiday message if there's a holiday today"""
     TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+    CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+    
     if not TOKEN:
         raise ValueError('TELEGRAM_BOT_TOKEN environment variable not set')
-    application = ApplicationBuilder().token(TOKEN).build()
     
-    start_handler = CommandHandler('start', start)
-    application.add_handler(start_handler)
+    if not CHAT_ID:
+        raise ValueError('TELEGRAM_CHAT_ID environment variable not set')
+    
+    if message:
+        application = ApplicationBuilder().token(TOKEN).build()
+        await application.bot.send_message(chat_id=CHAT_ID, text=message)
+        print(f"Holiday message sent: {message}")
+    else:
+        print("No holiday today, no message sent.")
 
-    async def send_holiday_message(app):
-        if message:
-            await app.bot.send_message(chat_id='CHANNEL_ID', text=message)
-
-    application.post_init(send_holiday_message)
+if __name__ == '__main__':
+    import asyncio
+    asyncio.run(send_holiday_message())
 
