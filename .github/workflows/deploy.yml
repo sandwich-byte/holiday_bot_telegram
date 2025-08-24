@@ -1,9 +1,9 @@
 name: Deploy Holiday Bot
 
 on:
-  # Run daily at 6:00 AM UTC to check for holidays
+  # Run daily at 5:45 AM UTC to check for holidays
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '45 5 * * *'
   
   # Allow manual triggering
   workflow_dispatch:
