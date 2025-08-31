@@ -19,6 +19,7 @@
 
         [
             {"day": "------February------", "name": "--this is a comment--"},
+            {"day": "1", "name": "the start of Lactose Intolerance Awareness Month"},
             {"day": "4", "name": "World Cancer Day"},
             {"day": "7", "name": "e Day! Celebrate the wonderful math constant"},
             {"day": "11", "name": "International Day of Women and Girls in Science"},
@@ -109,7 +110,8 @@
 
         [
             {"day": "-----September-----", "name": "--this is a comment--"},
-            {"day": "2", "name": "Coconut Day"},
+            {"day": "1", "name": "the start of Alzheimer's Disease Month"},
+            {"day": "2", "name": "the start of Alzheimer's Disease Month"},
             {"day": "5", "name": "International Day of Charity"},
             {"day": "9", "name": "Sudoku Day"},
             {"day": "10", "name": "World Suicide Prevention Day"},
@@ -123,6 +125,7 @@
 
         [
             {"day": "-----October-----", "name": "--this is a comment--"},
+            {"day": "1", "name": "the start of ADHD Awareness Month"},
             {"day": "2", "name": "International Day of Non-Violence"},
             {"day": "4", "name": "Vodka Day"},
             {"day": "8", "name": "International Lesbian Day"},
@@ -141,6 +144,7 @@
             {"day": "4", "name": "Random Acts of Kindness Day"},
             {"day": "8", "name": "X-ray Day"},
             {"day": "9", "name": "Go to an Art Museum Day"},
+            {"day": "11", "name": "Heavy Metal Day"},
             {"day": "14", "name": "World Diabetes Day"},
             {"day": "19", "name": "World Toilet Day"},
             {"day": "21", "name": "World Television Day"},
