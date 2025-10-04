@@ -11,6 +11,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
+#preparatory stuff
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text="Hi, I remind you of important holidays!")
 with open('holiday_list.json', 'r') as file:
@@ -31,13 +32,14 @@ for entry in holidays_data['holidays'][month]:
         today_holiday = entry
         break
 
+#build message
 message = ''
 if today_holiday:
     message = random.choice(flavor_texts['beginnings']) + 'Today, ' + str(day) + '/' + str(month) + ', is ' + today_holiday['name'] + '. ' + random.choice(flavor_texts['endings'])
 
 
 async def send_holiday_message():
-    """Send holiday message if there's a holiday today"""
+    #send message
     TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
     CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
     
